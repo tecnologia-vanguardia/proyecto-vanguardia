@@ -1,0 +1,65 @@
+    .row,
+    .row>.column {
+        padding: 10px;
+        height: auto;
+
+    }
+
+    .row:after {
+    content: "";
+    display: table;
+    clear: both;
+    }    
+
+    /* Create three equal columns that floats next to each other */
+    .column {
+        float: left;
+        width: 25%;
+        display: none;
+        /* Hide all elements by default */
+    }
+
+    /* The "show" class is added to the filtered elements */
+    .show {
+        display: block;
+    }
+
+    /* Style the buttons */
+    .btn {
+        border: none;
+        outline: none;
+        padding: 12px 18px;
+        background-color: primary;
+        cursor: pointer;
+    }
+
+    .btn:hover {
+        background-color: limegreen;
+    }
+
+    .btn.active {
+        background-color: primary;
+        color: black;
+    }
+
+    /* Center website */
+    .main {
+    max-width: 1200px;
+    margin: auto;
+    }
+
+    /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+
+    /* Responsive layout - makes a two column-layout instead of four columns */
+    @media screen and (max-width: 900px) {
+    .column {
+    width: 50%;
+    }
+    }
+
+    /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+    @media screen and (max-width: 600px) {
+    .column {
+    width: 100%;
+    }
+    }
