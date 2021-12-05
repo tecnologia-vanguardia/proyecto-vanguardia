@@ -22,22 +22,22 @@ Utilizamos Git para colaborar en equipo y en nuestro código utilizamos la libre
 ## Descripcion de los Apartados
 
 ### Inicio
-![Inicio]<br>
+<br>
 
 ### Tipos de viaje
-![Tipos de viaje]<br>
+<br>
 
 ### Flota
-![Flota]<br>
+<br>
 
 ### Galeria
-![Galeria]<br>
+<br>
 
 ### Reservar
-![Reservar]<br>
+<br>
 
 ### Contacto
-![Contacto]<br>
+<br>
 
 ### Login
-![Login]<br>
+<br>
