@@ -21,7 +21,7 @@
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="#">Avistamiento de Ballenas</a>
 </li></ul>
 </div>
-</li><li class="u-nav-item"><a class="u-active-palette-1-base u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-hover-palette-1-light-1 u-nav-link u-text-active-white u-text-grey-60 u-text-hover-white" href="#" style="padding: 10px 16px;">Reservar</a>
+</li><li class="u-nav-item"><a class="u-active-palette-1-base u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-hover-palette-1-light-1 u-nav-link u-text-active-white u-text-grey-60 u-text-hover-white" href="consultarReserva.php" style="padding: 10px 16px;">Reservas</a>
 </li><li class="u-nav-item"><a class="u-active-palette-1-base u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-hover-palette-1-light-1 u-nav-link u-text-active-white u-text-grey-60 u-text-hover-white" href="#" style="padding: 10px 16px;">Contacto</a>
 </li><li class="u-nav-item"><a class="u-active-palette-1-base u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-hover-palette-1-light-1 u-nav-link u-text-active-white u-text-grey-60 u-text-hover-white" href="#" style="padding: 10px 6px 10px 16px;">Consultas</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-4"><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="reservacionesClientes.php">Reservaciones</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="consultarClientes.php">Clientes</a>
