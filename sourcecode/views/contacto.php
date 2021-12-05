@@ -4,10 +4,11 @@ session_start();
 <!doctype html>
 <html lang="en">
   <head>
+  <title>ALMAR.site | Contactanos</title>
   <?php include("header.php"); ?>
   </head>
   
-  <body >
+  <body>
      <!-- Navbar-->
      <?php include("nav-bar.php"); ?>
     
@@ -19,7 +20,7 @@ session_start();
      <img src="../assets/images/212.png" class="mx-auto d-block img-thumbnail" alt="jurel" width="400" ><br><br>
 
       <h6 align="center" style="font-size:15px">Teléfono: (646) 121-33-84</h6>
-      <h6 align="center" style="font-size:15px">E-mail: cocossportfishing@gmail.com</h6><br>
+      <h6 align="center" style="font-size:15px">E-mail: contacto@almar.site</h6><br>
       <h6 align="center" style="font-size:15px">Página creada por Ocean Web & Desing</h6>
     </div>
 
@@ -28,7 +29,6 @@ session_start();
  <!-- Pie de pagina -->
 <div class="container-fluid  bg-success text-success"><br></div>
    
-
 </div>
 </body>
 </html>
