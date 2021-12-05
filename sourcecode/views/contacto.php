@@ -17,7 +17,7 @@ session_start();
     <div class="container-fluid  bg-success text-success"><br></div>
     <div class="container-fluid p-3  bg-dark" style="color: #ffaf2a"><br>
      
-     <img src="../assets/images/212.png" class="mx-auto d-block img-thumbnail" alt="jurel" width="400" ><br><br>
+     <img src="../assets/images/almarLogo.png" class="mx-auto d-block img-thumbnail" alt="jurel" width="400" ><br><br>
 
       <h6 align="center" style="font-size:15px">Teléfono: (646) 121-33-84</h6>
       <h6 align="center" style="font-size:15px">E-mail: contacto@almar.site</h6><br>
