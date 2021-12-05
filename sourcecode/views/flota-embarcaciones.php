@@ -37,7 +37,5 @@
                 </div>
                 <script src="../js/jquery.min.js"></script>
                 <script src="../js/flota-embarcaciones.js"></script>
-                <script src="../symplebook/jsonRpc.js"></script>
-                <script src="../symplebook/symplyBook.js"></script>
             </body>
             </html>
