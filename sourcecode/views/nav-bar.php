@@ -1,4 +1,4 @@
-    <header class="u-align-center-sm u-align-center-xs u-clearfix u-gradient u-header u-header" id="sec-846f"><div class="u-clearfix u-sheet u-sheet-1">
+<header class="u-align-center-sm u-align-center-xs u-clearfix u-gradient u-header u-header" id="sec-846f"><div class="u-clearfix u-sheet u-sheet-1">
         <a href="http://almar.site" class="u-image u-logo u-image-1" data-image-width="1060" data-image-height="325" data-animation-name="tada" data-animation-duration="2750" data-animation-direction="" data-animation-delay="0">
           <img src="../assets/images/almarLogoVertical.png" class="u-logo-image u-logo-image-1">
         </a>
@@ -11,20 +11,23 @@
             </a>
           </div>
           <div class="u-custom-menu u-nav-container">
-            <ul class="u-nav u-spacing-2 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-active-palette-1-base u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-hover-palette-1-light-1 u-nav-link u-text-active-white u-text-grey-60 u-text-hover-white" href="#" style="padding: 10px 16px;">Inicio</a>
-</li><li class="u-nav-item"><a class="u-active-palette-1-base u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-hover-palette-1-light-1 u-nav-link u-text-active-white u-text-grey-60 u-text-hover-white" href="#" style="padding: 10px 16px;">Tipos de Viaje</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="#">Pesca Deportiva</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="#">Avistamiento de Ballenas</a>
+            <ul class="u-nav u-spacing-2 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-active-palette-1-base u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-hover-palette-1-light-1 u-nav-link u-text-active-white u-text-grey-60 u-text-hover-white" href="http://almar.site" style="padding: 10px 16px;">Inicio</a>
+</li><li class="u-nav-item"><a class="u-active-palette-1-base u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-hover-palette-1-light-1 u-nav-link u-text-active-white u-text-grey-60 u-text-hover-white" href="#" style="padding: 10px 16px;">Tipos de Viaje</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="tipo-pesca-depo.php">Pesca Deportiva</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="tipo-avistamiento-ballena.php">Avistamiento de Ballenas</a>
 </li></ul>
 </div>
-</li><li class="u-nav-item"><a class="u-active-palette-1-base u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-hover-palette-1-light-1 u-nav-link u-text-active-white u-text-grey-60 u-text-hover-white" href="#" style="padding: 10px 16px;">Flota</a>
-</li><li class="u-nav-item"><a class="u-active-palette-1-base u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-hover-palette-1-light-1 u-nav-link u-text-active-white u-text-grey-60 u-text-hover-white" href="#" style="padding: 10px 16px;">Galería</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-3"><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="#">Pesca Deportiva</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="#">Avistamiento de Ballenas</a>
+</li><li class="u-nav-item"><a class="u-active-palette-1-base u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-hover-palette-1-light-1 u-nav-link u-text-active-white u-text-grey-60 u-text-hover-white" href="flota-embarcaciones.php" style="padding: 10px 16px;">Flota</a>
+</li><li class="u-nav-item"><a class="u-active-palette-1-base u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-hover-palette-1-light-1 u-nav-link u-text-active-white u-text-grey-60 u-text-hover-white" href="#" style="padding: 10px 16px;">Galería</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-3"><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="galeria-pesca.php">Pesca Deportiva</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="galeria-avistamiento.php">Avistamiento de Ballenas</a>
 </li></ul>
 </div>
-</li><li class="u-nav-item"><a class="u-active-palette-1-base u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-hover-palette-1-light-1 u-nav-link u-text-active-white u-text-grey-60 u-text-hover-white" href="#" style="padding: 10px 16px;">Reservar</a>
-</li><li class="u-nav-item"><a class="u-active-palette-1-base u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-hover-palette-1-light-1 u-nav-link u-text-active-white u-text-grey-60 u-text-hover-white" href="#" style="padding: 10px 16px;">Contacto</a>
-</li><li class="u-nav-item"><a class="u-active-palette-1-base u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-hover-palette-1-light-1 u-nav-link u-text-active-white u-text-grey-60 u-text-hover-white" href="#" style="padding: 10px 6px 10px 16px;">Consultas</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-4"><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="reservacionesClientes.php">Reservaciones</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="consultarClientes.php">Clientes</a>
+</li><li class="u-nav-item"><a class="u-active-palette-1-base u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-hover-palette-1-light-1 u-nav-link u-text-active-white u-text-grey-60 u-text-hover-white" href="#" style="padding: 10px 16px;">Reservar</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-4"><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="ConsultarReservacion.php">Consultar Reservas</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="https://sportfishing.simplybook.me/v2/#book/category/1/count/1/">Realizar Reservación</a>
+</li></ul>
+</div>
+</li><li class="u-nav-item"><a class="u-active-palette-1-base u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-hover-palette-1-light-1 u-nav-link u-text-active-white u-text-grey-60 u-text-hover-white" href="contacto.php" style="padding: 10px 16px;">Contacto</a>
+</li><li class="u-nav-item"><a class="u-active-palette-1-base u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-hover-palette-1-light-1 u-nav-link u-text-active-white u-text-grey-60 u-text-hover-white" href="#" style="padding: 10px 16px;">Consultas</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-5"><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="#">Reservaciones</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="#">Clientes</a>
 </li></ul>
 </div>
 </li></ul>
@@ -33,19 +36,22 @@
             <div class="u-align-center u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
               <div class="u-inner-container-layout u-sidenav-overflow">
                 <div class="u-menu-close"></div>
-                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-5"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="#" style="padding: 10px 12px;">Inicio</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="#" style="padding: 10px 12px;">Tipos de Viaje</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-6"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="#">Pesca Deportiva</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="#">Avistamiento de Ballenas</a>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-6"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="http://almar.site" style="padding: 10px 16px;">Inicio</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="#" style="padding: 10px 16px;">Tipos de Viaje</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-7"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="tipo-pesca-depo.php">Pesca Deportiva</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="tipo-avistamiento-ballena.php">Avistamiento de Ballenas</a>
 </li></ul>
 </div>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="#" style="padding: 10px 12px;">Flota</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="#" style="padding: 10px 12px;">Galería</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-7"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="#">Pesca Deportiva</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="#">Avistamiento de Ballenas</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="flota-embarcaciones.php" style="padding: 10px 16px;">Flota</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="#" style="padding: 10px 16px;">Galería</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-8"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="galeria-pesca.php">Pesca Deportiva</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="galeria-avistamiento.php">Avistamiento de Ballenas</a>
 </li></ul>
 </div>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="#" style="padding: 10px 12px;">Reservar</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="#" style="padding: 10px 12px;">Contacto</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="#" style="padding: 10px 12px;">Consultas</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-8"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="reservacionesClientes.php">Reservaciones</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="#" style="padding: 10px 16px;">Reservar</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-9"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="ConsultarReservacion.php">Consultar Reservas</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="https://sportfishing.simplybook.me/v2/#book/category/1/count/1/">Realizar Reservación</a>
+</li></ul>
+</div>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="contacto.php" style="padding: 10px 16px;">Contacto</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="#" style="padding: 10px 16px;">Consultas</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-10"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="#">Reservaciones</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="#">Clientes</a>
 </li></ul>
 </div>
