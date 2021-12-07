@@ -7,7 +7,6 @@ die("Problemas con la conexión");
 $email = $_POST["email"];
 $contraseña = $_POST["contraseña"];
 
-
 $buscarusuario = "SELECT * FROM registro_usuario WHERE Email='$email'";
 $result = $conexion->query($buscarusuario); 
 $row = $result->fetch_array(MYSQLI_ASSOC);
