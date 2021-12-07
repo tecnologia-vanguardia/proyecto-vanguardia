@@ -9,7 +9,12 @@
             <meta name="theme-color" content="#478ac9">
             <meta property="og:title" content="Home">
             <meta property="og:type" content="website">
+
             <title>almar.site | Reserva tu próxima aventura en el mar online..."></title>
+            <!-- Bootstrap CSS -->
+            <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+            <link rel="stylesheet" href="../assets/lobibox-master/dist/css/lobibox.min.css"/>
 
             <!-- Optional JavaScript -->
             <script src="../js/jquery.min.js"></script>
@@ -18,6 +23,8 @@
             <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 
             <script class="u-script" type="text/javascript" src="../js/nicepage.js" defer=""></script>
+            <script src="../assets/lobibox-master/dist/js/lobibox.min.js"></script>
+	    
             <script type="application/ld+json">{
             "@context": "http://schema.org",
             "@type": "Organization",

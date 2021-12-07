@@ -1,3 +1,5 @@
+$(document).ready(function() {
+
 let API_KEY = '86ac1da3bdc9f069c3ade05ed6e8c610c6dc6e4ee346aa5f7d214a512aa03764';
 let COMPANY_LOGIN = 'sportfishing';
 let adminData = {
@@ -8,6 +10,7 @@ let adminData = {
 let TOKEN = '';
 let URLClIENTS = 'https://user-api-v2.simplybook.me/admin/clients';
 let URLRESERVAS = 'https://user-api-v2.simplybook.me/admin/bookings';
+let RESERVABYCODE = 'https://user-api-v2.simplybook.me/admin/bookings?filter[search]=';
 
 //obtener el token
 if (TOKEN === '') {
@@ -19,11 +22,13 @@ $.ajax({
 	contentType: 'application/json',
 	success : function (data){
 		TOKEN = data.token;
-		obtenerReservas();
+		if($('#tipo_busqueda').val() === '1') {
+			obtenerReservas();
+		}
 		obtenerClientes();
 	},
 	onerror: function (error) {
-		console.log('Ha ocurrido un error al iniciar sesion al API')
+		Lobibox.alert('error',{msg:'Ha ocurrido un error al obtener la informacion'});
 	}
  });
 }
@@ -38,7 +43,7 @@ function obtenerClientes() {
 			crearTablaClientes(data);
 		},
 		onerror: function (error) {
-			console.log('Ha ocurrido un error al iniciar sesion al API')
+			Lobibox.alert('error',{msg:'Ha ocurrido un error al obtener la informacion'});
 		}
 	 });
 }
@@ -53,7 +58,7 @@ function obtenerReservas() {
 			crearTablaReservas(data);
 		},
 		onerror: function (error) {
-			console.log('Ha ocurrido un error al iniciar sesion al API')
+			Lobibox.alert('error',{msg:'Ha ocurrido un error al obtener la informacion'});
 		}
 	 });
 }
@@ -166,3 +171,34 @@ function processDataFunction(data) {
 
 	return reservas;
 }
+
+//buscar reservacion por codigo
+
+$('#buscar_reservacion').off('click').on('click', function (){
+	reservaByCode($('#no_codigo').val());
+ });
+
+function reservaByCode(code) {
+	if (!code) return Lobibox.alert('warning',{msg:'Favor de ingresar un c&oacute;digo de reserva'});
+	$.ajax({
+		url : `${RESERVABYCODE}${code}`,
+		method : 'GET',
+		contentType: 'application/json',
+		headers: { 'X-Company-Login': COMPANY_LOGIN, 'X-Token': TOKEN },
+		success : function (data){
+			setFields(data.data);
+		},
+		onerror: function (error) {
+			Lobibox.alert('error',{msg:'Ha ocurrido un error al obtener la informacion'});
+		}
+	 });
+}
+
+function setFields(data){
+	$('#nombre_servicio').val(data[0].service?.name);
+	$('#descripcion').val(data[0].service?.description);
+	$('#estatus').val(data[0]?.status);
+	$('#estatus_pago').val(data[0].invoice_status);
+	$('#fecha_pago').val(data[0]?.invoice_datetime);
+}
+});

@@ -1,8 +1,8 @@
 function direcciona(opc){
     if(document.forms[0].email.value.length < 1){
-     alert("Proporcione Correo");
+        Lobibox.alert('warning',{msg:'Ingrese un correo'});
  }else if(document.forms[0].contraseña.value.length < 1){
-     alert("Proporcione Contraseña");
+    Lobibox.alert('warning',{msg:'Ingrese un password'});
  }
  else {
     switch (opc) {

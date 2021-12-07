@@ -26,9 +26,15 @@
 </li></ul>
 </div>
 </li><li class="u-nav-item"><a class="u-active-palette-1-base u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-hover-palette-1-light-1 u-nav-link u-text-active-white u-text-grey-60 u-text-hover-white" href="contacto.php" style="padding: 10px 16px;">Contacto</a>
-</li><li class="u-nav-item"><a class="u-active-palette-1-base u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-hover-palette-1-light-1 u-nav-link u-text-active-white u-text-grey-60 u-text-hover-white" href="#" style="padding: 10px 16px;">Consultas</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-5"><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="#">Reservaciones</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="#">Clientes</a>
-</li></ul>
+
+    <?php
+        if (isset($_SESSION['Role']) == "ADMIN") {
+            echo '</li><li class="u-nav-item"><a class="u-active-palette-1-base u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-hover-palette-1-light-1 u-nav-link u-text-active-white u-text-grey-60 u-text-hover-white" href="#" style="padding: 10px 16px;">Consultas</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-5"><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="reservacionesClientes.php">Reservaciones</a>
+                  </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="consultarClientes.php">Clientes</a>
+                  </li></ul>
+                  </li><li class="u-nav-item"><a class="u-active-palette-1-base u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-hover-palette-1-light-1 u-nav-link u-text-active-white u-text-grey-60 u-text-hover-white" href="Logout.php" style="padding: 10px 16px;">Logout</a>';
+                }
+    ?>
 </div>
 </li></ul>
           </div>

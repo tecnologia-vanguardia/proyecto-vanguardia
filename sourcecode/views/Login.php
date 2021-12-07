@@ -23,11 +23,11 @@
                     </div>
                     <!-------------------->
                     <div class="form-group my-2" >
-                        <input class="form-control btn btn-primary" type="button" name="Iniciar" onclick="direcciona(1)" value="Iniciar">
+                        <input class="form-control btn btn-primary" type="button" name="Iniciar" onclick="direcciona(1)" value="Iniciar sesi&oacute;n">
                     </div>
-                    <div class="form-group">
+                     <div class="form-group">
                         <input class="form-control btn btn-success" type="button" name="registrar" value="Registrar" onClick="location.href='Registro_usuario.html'">
-                    </div>
+                    </div> 
                 </form>
             </div>
         </div>
