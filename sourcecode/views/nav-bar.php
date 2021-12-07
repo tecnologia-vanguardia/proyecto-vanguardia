@@ -21,7 +21,7 @@
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="galeria-avistamiento.php">Avistamiento de Ballenas</a>
 </li></ul>
 </div>
-</li><li class="u-nav-item"><a class="u-active-palette-1-base u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-hover-palette-1-light-1 u-nav-link u-text-active-white u-text-grey-60 u-text-hover-white" href="#" style="padding: 10px 16px;">Reservar</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-4"><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="ConsultarReservacion.php">Consultar Reservas</a>
+</li><li class="u-nav-item"><a class="u-active-palette-1-base u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-hover-palette-1-light-1 u-nav-link u-text-active-white u-text-grey-60 u-text-hover-white" href="#" style="padding: 10px 16px;">Reservar</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-4"><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="consultarReservacion.php">Consultar Reservas</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-white" href="https://sportfishing.simplybook.me/v2/#book/category/1/count/1/">Realizar Reservación</a>
 </li></ul>
 </div>
@@ -52,7 +52,7 @@
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="galeria-avistamiento.php">Avistamiento de Ballenas</a>
 </li></ul>
 </div>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="#" style="padding: 10px 16px;">Reservar</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-9"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="ConsultarReservacion.php">Consultar Reservas</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="#" style="padding: 10px 16px;">Reservar</a><div class="u-nav-popup"><ul class="u-h-spacing-20 u-nav u-unstyled u-v-spacing-10 u-nav-9"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="consultarReservacion.php">Consultar Reservas</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="https://sportfishing.simplybook.me/v2/#book/category/1/count/1/">Realizar Reservación</a>
 </li></ul>
 </div>
