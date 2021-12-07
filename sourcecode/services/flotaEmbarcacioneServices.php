@@ -1,5 +1,5 @@
 <?php
-                    $conexion = mysqli_connect("localhost", "root", "", "cocos2") or die("Problemas con la conexión");
+                    $conexion = mysqli_connect("localhost", "u107623996_almar", "Almar123", "u107623996_almar") or die("Problemas con la conexión");
                     $query = "select NombreEmbarcacion,TipoEmbarcacion,Descripcion,Foto, Precio, link FROM embarcaciones";
 
                         $registros=mysqli_query($conexion, $query)

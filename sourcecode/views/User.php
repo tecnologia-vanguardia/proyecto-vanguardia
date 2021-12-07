@@ -1,7 +1,7 @@
 <?php 
 session_start();
 
-$conexion = mysqli_connect("localhost", "root", "", "cocos2") or
+$conexion = mysqli_connect("localhost", "u107623996_almar", "Almar123", "u107623996_almar") or
 die("Problemas con la conexión");
 
 $email = $_POST["email"];
@@ -21,7 +21,7 @@ if (password_verify($contraseña, $hash)) {
 	$_SESSION['Role'] = $row['role'];
 	$_SESSION['start'] = time();
 	$_SESSION['expire'] = $_SESSION['start']; 
-	header('Location: http://localhost/proyecto-vanguardia/sourcecode/views/inicio.php');
+	header('Location: http://almar.site//views/inicio.php');
 }else{
 	echo "Contraseña o usuario incorrecto";
 	echo "<br><a href='Login.php'>Volver a Intentarlo</a>";

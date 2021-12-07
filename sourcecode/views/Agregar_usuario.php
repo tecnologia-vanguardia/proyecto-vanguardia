@@ -14,12 +14,12 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 
     <link rel="stylesheet" href="estilos.css">
-    <title>Coco's Sportfishing Ensenada</title>
+    <title>Almar.site</title>
 </head>
 <body>
 <div class="container p-3 my-4 bg-dark text-white">
 <?php
-$conexion = mysqli_connect("localhost", "root", "", "cocos2") or
+$conexion = mysqli_connect("localhost", "u107623996_almar", "Almar123", "u107623996_almar") or
 die("Problemas con la conexión");
 
 session_start();
