@@ -24,19 +24,21 @@ Como proyecto final de la materia Tecnologias de Vanguardia, realizamos un siste
 ![Pantalla Principal](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/pagprincipal.png)<br><br>
 
 ### Tipos de viaje
-<br>
+![Tipos de Viaje](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/tiposviaje.png)<br><br>
 
 ### Flota
-<br>
+![Flota](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/flotaembarca.png)<br><br>
 
 ### Galeria
-<br>
+![Galeria Pesca](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/galpesca.png)<br><br>
+![Galeria Ballenas](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/galballe.png)<br><br>
 
 ### Reservar
 <br>
 
 ### Contacto
-<br>
+![Contacto](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/contacto1.png)<br><br>
+
 
 ### Login
 <br>
