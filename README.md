@@ -46,21 +46,21 @@ Al dar clik en consultar reservas, se muestra un formulario, donde te pide que i
 Al introducir el codigo de reservacion, el sistema te muestra toda la informacion referente a tu reservacion<br><br>
 
 ### Reservar
-![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/res0.png)<br>
+![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/res0.png)<br><br>
 Cuando seleccionas Realizar Reservacion, te rediccionara a una nueva ventana, dodne deberas de seguir los siguientes pasos:<br><br>
-![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res1.png)<br>
+![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res1.png)<br><br>
 Paso 1. Seleccionar tipo de viaje<br><br>
-![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res2.png)<br>
+![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res2.png)<br><br>
 Paso 2. Seleccionar embarcacion<br><br>
-![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res3.png)<br>
+![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res3.png)<br><br>
 Paso 3. Seleccionar Fecha y Hora del viaje<br><br>
-![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res4.png)<br>
+![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res4.png)<br><br>
 Paso 4. Iniciar sesion, en caso de no tener cuenta, deberas realizar un registro de usuario<br><br>
-![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res5.png)<br>
+![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res5.png)<br><br>
 Paso 5. Una vez que inicies sesion, te pedira confirmar los datos de la reservacion<br><br>
-![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res6.png)<br>
+![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res6.png)<br><br>
 Paso 6. Seleccionar el metodo de pago<br><br>
-![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res7.png)<br>
+![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res7.png)<br><br>
 Paso 7. El sistema te arrojara tu comprobante de reservacion<br><br>
 
 
