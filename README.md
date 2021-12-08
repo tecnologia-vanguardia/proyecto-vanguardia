@@ -22,7 +22,7 @@ Como proyecto final de la materia Tecnologias de Vanguardia, realizamos un siste
 
 ### Pantalla principal de usuario cliente
 ![Pantalla Principal](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/pagprincipal.png)<br>
-En la pantalla principal de la pagina, se encuentra un menu de opciones: Inicio, Tipos de viaje, Flota, Galeria, Reservar y Contacto <br>
+En la pantalla principal de la pagina, se encuentra un menu con opciones de: Inicio, Tipos de viaje, Flota, Galeria, Reservar y Contacto <br>
 
 ### Tipos de viaje
 ![Tipos de Viaje](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/tiposviaje.png)<br>
@@ -38,28 +38,45 @@ En el apartdo de galeria, se muestran imagenes de los diferentes tipos de viaje
 ![Galeria Ballenas](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/galballe.png)<br><br>
 
 ### Consultar Reserva
-![Consultar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/consulta1.png)<br><br>
-![Consultar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/consulta2.png)<br><br>
-![Consultar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/consulta3.png)<br><br>
+![Consultar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/consulta1.png)<br>
+En el apartado de reservar, se muestran 2 opciones, una para consultar reservas y otra para realizar la reservacion<br>
+![Consultar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/consulta2.png)<br>
+Al dar clik en consultar reservas, se muestra un formulario, donde te pide que ingreses tu codigo de reservacion<br>
+![Consultar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/consulta3.png)<br>
+Al introducir el codigo de reservacion, el sistema te muestra toda la informacion referente a tu reservacion<br>
 
 ### Reservar
-![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/res0.png)<br><br>
-![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res1.png)<br><br>
-![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res2.png)<br><br>
-![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res3.png)<br><br>
-![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res4.png)<br><br>
-![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res5.png)<br><br>
-![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res6.png)<br><br>
-![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res7.png)<br><br>
+![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/res0.png)<br>
+Cuando seleccionas Realizar Reservacion, te rediccionara a una nueva ventana, dodne deberas de seguir los siguientes pasos:<br>
+![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res1.png)<br>
+Paso 1. Seleccionar tipo de viaje<br>
+![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res2.png)<br>
+Paso 2. Seleccionar embarcacion<br>
+![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res3.png)<br>
+Paso 3. Seleccionar Fecha y Hora del viaje<br>
+![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res4.png)<br>
+Paso 4. Iniciar sesion, en caso de no tener cuenta, deberas realizar un registro de usuario<br>
+![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res5.png)<br>
+Paso 5. Una vez que inicies sesion, te pedira confirmar los datos de la reservacion<br>
+![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res6.png)<br>
+Paso 6. Seleccionar el metodo de pago<br>
+![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res7.png)<br>
+Paso 7. El sistema te arrojara tu comprobante de reservacion<br>
 
 
 ### Contacto
-![Contacto](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/contacto1.png)<br><br>
+![Contacto](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/contacto1.png)<br>
+Ponte en contacto con nosotros<br>
 
 
 ### Pantalla usuario administrador
-![Administrador](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/loginadmin.png)<br><br>
-![Administrador](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/adminpantalla.png)<br><br>
-![Administrador](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/adminconsulta1.png)<br><br>
-![Administrador](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/adminconsulta2.png)<br><br>
+![Administrador](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/loginadmin.png)<br>
+Para iniciar como usuario administrador, es importante ingresar con un usuario con rol de administrador. Correo: a.guadalupe@live.com.mx Contrasena: adrik
+<br>
+![Administrador](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/adminpantalla.png)<br>
+La pantalla principal es similar a la del usuario cliente, solo que ahora como rol administrador, te permite conlsutar todas las reservaciones que se tienen y tambien se puede consultar los clientes.<br>
+![Administrador](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/adminconsulta1.png)<br>
+Consulta de reservaciones<br>
+![Administrador](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/adminconsulta2.png)<br>
+Consulta de clientes<br>
 
