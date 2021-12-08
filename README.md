@@ -40,13 +40,13 @@ Como proyecto final de la materia Tecnologias de Vanguardia, realizamos un siste
 
 ### Reservar
 ![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/res0.png)<br><br>
-![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/res1.png)<br><br>
-![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/res2.png)<br><br>
-![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/res3.png)<br><br>
-![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/res4.png)<br><br>
-![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/res5.png)<br><br>
-![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/res6.png)<br><br>
-![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/res7.png)<br><br>
+![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res1.png)<br><br>
+![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res2.png)<br><br>
+![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res3.png)<br><br>
+![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res4.png)<br><br>
+![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res5.png)<br><br>
+![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res6.png)<br><br>
+![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res7.png)<br><br>
 
 
 ### Contacto
