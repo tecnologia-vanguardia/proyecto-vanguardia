@@ -11,7 +11,7 @@
         <div class="col-sm-8 " >
             <div class="modal-content bg-dark border-success">
                 <div class="col-12">
-                    <br><img src="../assets/images/212.png" style="width:90px;">
+                    <br><img src="../assets/images/almarLogo.png" style="width:90px;">
                 </div>
                 <!--------------------><br>
                 <form class="col-12 " action="Login.php" method="POST">

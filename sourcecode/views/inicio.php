@@ -1,13 +1,12 @@
-    <?php
-    session_start();
-    ?>
-    <!doctype html>
+<?php
+  session_start();
+?>
+  <!doctype html>
     <html lang="en">
         <head>
         <?php include("header.php"); ?>
         </head>
         <?php include("nav-bar.php"); ?>
-
         <body>
 
         <div id="myCarousel" class="carousel slide" data-ride="carousel">

@@ -20,7 +20,7 @@ if (password_verify($contraseña, $hash)) {
 	$_SESSION['Role'] = $row['role'];
 	$_SESSION['start'] = time();
 	$_SESSION['expire'] = $_SESSION['start']; 
-	header('Location: http://almar.site//views/inicio.php');
+	header('Location: http://almar.site/views/inicio.php');
 }else{
 	echo "Contraseña o usuario incorrecto";
 	echo "<br><a href='Login.php'>Volver a Intentarlo</a>";
