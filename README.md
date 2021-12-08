@@ -8,8 +8,7 @@ El equipo se conforma por:
 
 ## Descripcion
 
-Como proyecto final de la materia Tecnologias de Vanguardia, realizamos un sistema web llamado ALMAR.site, cuya finalidad es apoyar al Sector turistico, especificamente el sector pesquero y recreativo en el puerto de Ensenada Baja California. El sistema cuenta con informacion como: descripcion de los diferentes tipos de viaje, flota de embarcaciones, galeria de los tipos de viajes y reservacion.
-Utilizamos Git para colaborar en equipo y en nuestro código utilizamos la libreria bootstrap.
+Como proyecto final de la materia Tecnologias de Vanguardia, realizamos un sistema web llamado ALMAR.site, cuya finalidad es apoyar al Sector turistico, especificamente el sector pesquero y recreativo en el puerto de Ensenada Baja California. El sistema cuenta con informacion como: descripcion de los diferentes tipos de viaje, flota de embarcaciones, galeria de los tipos de viajes, reservacion y contacto.
 
 ## Descripcion de las tecnologias utilizadas
 
@@ -21,7 +20,7 @@ Utilizamos Git para colaborar en equipo y en nuestro código utilizamos la libre
 
 ## Descripcion de los Apartados
 
-### Inicio
+### Pantalla principal de usuario cliente
 <br>
 
 ### Tipos de viaje
