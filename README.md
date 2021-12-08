@@ -21,15 +21,19 @@ Como proyecto final de la materia Tecnologias de Vanguardia, realizamos un siste
 ## Descripcion de los Apartados
 
 ### Pantalla principal de usuario cliente
-![Pantalla Principal](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/pagprincipal.png)<br><br>
+![Pantalla Principal](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/pagprincipal.png)<br>
+En la pantalla principal de la pagina, se encuentra un menu de opciones: Inicio, Tipos de viaje, Flota, Galeria, Reservar y Contacto <br>
 
 ### Tipos de viaje
-![Tipos de Viaje](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/tiposviaje.png)<br><br>
+![Tipos de Viaje](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/tiposviaje.png)<br>
+En el apartado de tipos de viaje, se puede observar que existen 2 tipos de viajes: Pesca Deportiva y Avistamiento de Ballenas <br>
 
 ### Flota
-![Flota](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/flotaembarca.png)<br><br>
+![Flota](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/flotaembarca.png)<br>
+En el apartado de flotas, se muestran las embarcaciones que prestan sus servicios para los diferentes tipos de viajes mencionados anteriomente<br>
 
 ### Galeria
+En el apartdo de galeria, se muestran imagenes de los diferentes tipos de viaje
 ![Galeria Pesca](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/galpesca.png)<br><br>
 ![Galeria Ballenas](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/galballe.png)<br><br>
 
