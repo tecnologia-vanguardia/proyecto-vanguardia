@@ -21,7 +21,7 @@ Como proyecto final de la materia Tecnologias de Vanguardia, realizamos un siste
 ## Descripcion de los Apartados
 
 ### Pantalla principal de usuario cliente
-![Pantalla Principal](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/almarLogo.png)<br><br>
+![Pantalla Principal](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/pagprincipal.png)<br><br>
 
 ### Tipos de viaje
 <br>
