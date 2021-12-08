@@ -1,6 +1,6 @@
 <?php
                     $conexion = mysqli_connect("localhost", "u107623996_almar", "Almar123", "u107623996_almar") or die("Problemas con la conexión");
-                    $query = "select NombreEmbarcacion,TipoEmbarcacion,Descripcion,Foto, Precio, link FROM embarcaciones";
+                    $query = "select NombreEmbarcacion,TipoEmbarcacion,Descripcion,Foto, Precio FROM embarcaciones";
 
                         $registros=mysqli_query($conexion, $query)
                             or die("Problemas en el select" . mysqli_error($conexion));
@@ -16,7 +16,7 @@
                                                 <h5 class='card-title'>".$reg['NombreEmbarcacion']."</h5>
                                                 <p class='card-text'>".$reg['Descripcion']."</p>
                                                 <p class='card-text'>Precio: $" .$reg['Precio']." dlls</p>
-                                                <a href=" .$reg['link']." class='btn btn-primary'>Reservar</a>
+                                                <a href='https://sportfishing.simplybook.me/v2/#book/category/1/count/1/' target='_blank'class='btn btn-primary'>Reservar</a>
                                             </div>
                                         </div>
                                     </div>
