@@ -53,5 +53,9 @@ Como proyecto final de la materia Tecnologias de Vanguardia, realizamos un siste
 ![Contacto](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/contacto1.png)<br><br>
 
 
-### Login
-<br>
+### Pantalla usuario administrador
+![Administrador](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/loginadmin.png)<br><br>
+![Administrador](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/adminpantalla.png)<br><br>
+![Administrador](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/adminconsulta1.png)<br><br>
+![Administrador](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/adminconsulta2.png)<br><br>
+
