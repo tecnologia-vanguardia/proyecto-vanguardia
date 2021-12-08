@@ -33,8 +33,21 @@ Como proyecto final de la materia Tecnologias de Vanguardia, realizamos un siste
 ![Galeria Pesca](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/galpesca.png)<br><br>
 ![Galeria Ballenas](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/galballe.png)<br><br>
 
+### Consultar Reserva
+![Consultar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/consulta1.png)<br><br>
+![Consultar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/consulta2.png)<br><br>
+![Consultar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/consulta3.png)<br><br>
+
 ### Reservar
-<br>
+![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/res0.png)<br><br>
+![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res1.png)<br><br>
+![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res2.png)<br><br>
+![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res3.png)<br><br>
+![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res4.png)<br><br>
+![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res5.png)<br><br>
+![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res6.png)<br><br>
+![Reservar](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/Res7.png)<br><br>
+
 
 ### Contacto
 ![Contacto](https://github.com/tecnologia-vanguardia/proyecto-vanguardia/blob/main/sourcecode/assets/images/contacto1.png)<br><br>
